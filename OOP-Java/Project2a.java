@@ -1,9 +1,9 @@
-package program2a;
+package Project2a;
 
 import java.util.*;
 import java.io.*;
 
-public class Program2a {
+public class Project2a {
 
     static int choice(int n, int k) {
         if(n==1)
