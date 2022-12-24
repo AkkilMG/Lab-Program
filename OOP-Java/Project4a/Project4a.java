@@ -3,7 +3,7 @@ import convertor.*;
 
 import java.util.Scanner;
 
-public class Program {
+public class Project4a {
     public static void main(String[] args) {
         currency Currency = new currency();
         Scanner S = new Scanner(System.in);
